@@ -3,3 +3,5 @@ This repository contains the data set for age-related discussions in mobile app 
 
 Annotation - Age related.xlsx contains the relevant Excel workbook.
 
+Intro sheet in the workbook contains the guidelines for using workbook
+
